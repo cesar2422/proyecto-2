@@ -1,0 +1,11 @@
+@charset "utf-8";
+/* CSS Document */
+
+.hola{
+    width:100%;  /*esto da un ancho del 100% a mi div*/
+	text-align:center; /*esto centra mi texto*/
+	font-size:40px; /*esto da el tamaño a mi fuente*/
+	color:#f00; /*esto da el color a la letra*/
+	background-color:#009; /*esto da el color de fondo a mi div --azul*/
+}
+
